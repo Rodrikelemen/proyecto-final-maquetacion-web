@@ -318,4 +318,8 @@ margin-bottom: 25px;
         font-size: 100%;
         transition: transform color 2s ease;
     }
+    .hero-foto img:hover{
+        width: 60%;
+        opacity: 0.6;
+    }
 }
